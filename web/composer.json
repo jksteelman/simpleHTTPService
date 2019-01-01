@@ -1,0 +1,19 @@
+{
+  "name": "jksteelman/hellofreshtest",
+  "description": "Just a simple api test",
+  "minimum-stability": "dev",
+  "license": "whatever",
+  "authors": [
+    {
+      "name": "Jason Steelman",
+      "email": "uscart@gmail.com"
+    }
+  ],
+  "require": {
+    "doctrine/dbal": "2.5.x-dev",
+    "league/flysystem": "^1.1@dev",
+    "vlucas/phpdotenv": "^2.5@dev",
+    "league/route": "^3.0@dev",
+    "zendframework/zend-diactoros": "^1.7@dev"
+  }
+}
